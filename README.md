@@ -1,6 +1,6 @@
 # ThanosR
 
-## Pacote criado a partir do curso **Meu pacote Thanos no R ** na Unirio
+## Pacote criado para o mini-curso **Meu pacote Thanos no R ** na Unirio
 
 ### função principal: estalar os dedos (deixa somente metade da base de dados)
 
@@ -15,7 +15,7 @@ metade_da_base_de_dados<-estalar_dedos(data.frame)
 
 ------------------------------------------------------------------
 
-Para ver funcionando
+Para ver funcionando  
 devtools::install_github("DATAUNIRIO/ThanosR")
 
 ------------------------------------------------------------------
