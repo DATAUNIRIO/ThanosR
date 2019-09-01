@@ -4,13 +4,19 @@
 
 ### função principal: estalar os dedos (deixa somente metade da base de dados)
 
+
 library(ThanosR)  
 metade_da_base_de_dados<-estalar_dedos(data.frame)  
 
 ------------------------------------------------------------------
 
 
-![](C:/Users/Steven/Documents/GitHub/ThanosR/Thanos.jpg) 
+![](https://raw.githubusercontent.com/DATAUNIRIO/ThanosR/master/Thanos.jpg) 
+
+------------------------------------------------------------------
+
+Para ver funcionando
+devtools::install_github("DATAUNIRIO/ThanosR")
 
 ------------------------------------------------------------------
 
