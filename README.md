@@ -11,7 +11,7 @@ metade_da_base_de_dados<-estalar_dedos(data.frame)
 ------------------------------------------------------------------
 
 
-![](https://raw.githubusercontent.com/DATAUNIRIO/ThanosR/master/Thanos.jpg) 
+![](https://raw.githubusercontent.com/DATAUNIRIO/ThanosR/master/ThanosR.png) 
 
 ------------------------------------------------------------------
 
