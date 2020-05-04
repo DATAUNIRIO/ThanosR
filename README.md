@@ -27,3 +27,9 @@ data("mtcars")
 metade_da_base_de_dados<-estalar_dedos(mtcars)  
 
 
+
+
+
+How to use WinBuilder?
+Among different ways to submit your package to WinBuilder
+https://blog.r-hub.io/2020/04/01/win-builder/
